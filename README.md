@@ -6,6 +6,7 @@ Building scalable web applications and backend systems with a strong focus on pe
 
 <p align="center">
 📍 Dhaka, Bangladesh • 💼 Open to internships & junior roles  
+🌐 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> • 
 📫 <a href="mailto:yshowrov7@gmail.com">yshowrov7@gmail.com</a> • 
 🔗 <a href="https://linkedin.com/in/yousuf-showrov-267196281">LinkedIn</a>
 </p>
@@ -14,7 +15,7 @@ Building scalable web applications and backend systems with a strong focus on pe
 
 ## 🚀 Professional Summary
 
-I'm a **Full-Stack Web Developer** with strong experience in **React, Node.js, MongoDB, and SQL**, and a growing focus on **Cloud Computing, Docker, and Kubernetes**.  
+I'm a **Full-Stack Web Developer** with strong experience in **React, Next.js, Node.js, MongoDB, and SQL**, and a growing focus on **Cloud Computing, Docker, and Kubernetes**.  
 I enjoy building production-ready systems, designing scalable APIs, and solving real-world problems through clean, maintainable code.
 
 Currently sharpening my skills in **system design, backend architecture, and DevOps workflows** while building full-stack and API-driven projects.
@@ -26,6 +27,7 @@ Currently sharpening my skills in **system design, backend architecture, and Dev
 ### Frontend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
@@ -56,28 +58,24 @@ Currently sharpening my skills in **system design, backend architecture, and Dev
 
 ## 📌 Featured Projects
 
-🔹 **Ride Booking API (Role-Based System)**  
-Backend system with **Admin, Rider, and Driver roles**, JWT authentication, protected routes, and scalable REST APIs.  
-**Tech:** Express.js, MongoDB, JWT  
-🔗 Repo: *(add link)*
+🔹 **Ride Booking System (Role-Based System)**  
+A platform with **Admin, Rider, and Driver roles**, JWT authentication, protected routes, and scalable REST APIs.  
+**Tech:** Express.js, MongoDB, JWT , React, Typescript.
+🔗 Repo: https://ride-booking-frontend-pi.vercel.app/
 
-🔹 **Full-Stack E-commerce Platform**  
-Complete shopping system with cart, checkout, dynamic payment logic, admin dashboard, and authentication.  
-**Tech:** React, Node.js, MongoDB, Tailwind  
-🔗 Repo: *(add link)*
 
 🔹 **Events & Activities Platform**  
 Social platform to connect people through local events and hobbies with role-based access and secure APIs.  
-**Tech:** MERN Stack  
-🔗 Repo: *(add link)*
+**Tech:** Express.js, MongoDB, JWT ,Nextjs, Typescript.
+🔗 Repo: 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=showorv&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showorv&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showorv&show_icons=true&theme=radical&count_private=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showorv&layout=compact&theme=radical&cache_seconds=1800"/>
 </p>
 
 ---
