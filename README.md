@@ -6,7 +6,7 @@ Building scalable web applications and backend systems with a strong focus on pe
 
 <p align="center">
 📍 Dhaka, Bangladesh • 💼 Open to internships & junior roles  
-🌐 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> • 
+🌐 <a href="https://portfolio-frontend-sigma-navy.vercel.app">Portfolio</a> • 
 📫 <a href="mailto:yshowrov7@gmail.com">yshowrov7@gmail.com</a> • 
 🔗 <a href="https://linkedin.com/in/yousuf-showrov-267196281">LinkedIn</a>
 </p>
@@ -61,13 +61,13 @@ Currently sharpening my skills in **system design, backend architecture, and Dev
 🔹 **Ride Booking System (Role-Based System)**  
 A platform with **Admin, Rider, and Driver roles**, JWT authentication, protected routes, and scalable REST APIs.  
 **Tech:** Express.js, MongoDB, JWT , React, Typescript.
-🔗 Repo: https://ride-booking-frontend-pi.vercel.app/
+🔗 Repo: https://ride-booking-frontend-pi.vercel.app
 
 
 🔹 **Events & Activities Platform**  
 Social platform to connect people through local events and hobbies with role-based access and secure APIs.  
 **Tech:** Express.js, MongoDB, JWT ,Nextjs, Typescript.
-🔗 Repo: 
+🔗 Repo: https://events-activities-frontend-ochre.vercel.app
 
 ---
 
