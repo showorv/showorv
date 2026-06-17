@@ -15,7 +15,7 @@ Dhaka, Bangladesh • Open to internships & junior roles
 
 ## Professional Summary
 
-I'm a **Full-Stack Web Developer** with strong experience in **React, Next.js, Node.js, MongoDB, and SQL**, and a growing focus on **Cloud Computing, Docker, and Kubernetes**.  
+I'm a **Full-Stack Web Developer** with strong experience in **React, Next.js, Node.js, MongoDB, and SQL**, and a growing focus on **Cloud Computing, Docker**.  
 I enjoy building production-ready systems, designing scalable APIs, and solving real-world problems through clean, maintainable code.
 
 Currently sharpening my skills in **system design, backend architecture, and DevOps workflows** while building full-stack and API-driven projects.
