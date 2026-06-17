@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yousuf Showrov</h1>
+<h1 align="center">Hi, I'm Yousuf Showrov</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Cloud & DevOps Enthusiast</h3>
 <p align="center">
 Building scalable web applications and backend systems with a strong focus on performance, clean architecture, and real-world problem solving.
 </p>
 
 <p align="center">
-📍 Dhaka, Bangladesh • 💼 Open to internships & junior roles  
-🌐 <a href="https://portfolio-frontend-sigma-navy.vercel.app">Portfolio</a> • 
-📫 <a href="mailto:yshowrov7@gmail.com">yshowrov7@gmail.com</a> • 
-🔗 <a href="https://linkedin.com/in/yousuf-showrov-267196281">LinkedIn</a>
+Dhaka, Bangladesh • Open to internships & junior roles  
+<a href="https://portfolio-frontend-sigma-navy.vercel.app">Portfolio</a> • 
+<a href="mailto:yshowrov7@gmail.com">yshowrov7@gmail.com</a> • 
+🔗 <a href="https://www.linkedin.com/in/yousuf-showrov-3b2836414">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 Professional Summary
+## Professional Summary
 
 I'm a **Full-Stack Web Developer** with strong experience in **React, Next.js, Node.js, MongoDB, and SQL**, and a growing focus on **Cloud Computing, Docker, and Kubernetes**.  
 I enjoy building production-ready systems, designing scalable APIs, and solving real-world problems through clean, maintainable code.
@@ -22,7 +22,7 @@ Currently sharpening my skills in **system design, backend architecture, and Dev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -56,7 +56,7 @@ Currently sharpening my skills in **system design, backend architecture, and Dev
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 🔹 **Ride Booking System (Role-Based System)**  
 A platform with **Admin, Rider, and Driver roles**, JWT authentication, protected routes, and scalable REST APIs.  
@@ -71,7 +71,7 @@ Social platform to connect people through local events and hobbies with role-bas
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=showorv&show_icons=true&theme=radical&count_private=true&cache_seconds=1800"/>
@@ -80,15 +80,15 @@ Social platform to connect people through local events and hobbies with role-bas
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/yousuf-showrov-267196281" target="_blank">
+<a href="https://www.linkedin.com/in/yousuf-showrov-3b2836414" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-⭐ Always open to collaboration, internships, and impactful projects.
+Always open to collaboration, internships, and impactful projects.
 
